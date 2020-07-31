@@ -21,7 +21,7 @@ public class HibernateUtil {
 			}
 		} catch (Exception e) {
 			e.printStackTrace();
-			if(standardServiceRegistry != null) {
+			if(standardServiceRegistry != null){
 				StandardServiceRegistryBuilder.destroy(standardServiceRegistry);
 			}
 		}
