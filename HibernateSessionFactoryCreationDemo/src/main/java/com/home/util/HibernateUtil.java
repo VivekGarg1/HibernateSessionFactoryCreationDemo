@@ -1,4 +1,4 @@
-package come.home.util;
+package com.home.util;
 
 import org.hibernate.SessionFactory;
 import org.hibernate.boot.Metadata;

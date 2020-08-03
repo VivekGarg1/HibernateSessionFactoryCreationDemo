@@ -1,8 +1,8 @@
-package come.home.client;
+package com.home.client;
 
 import org.hibernate.Session;
 
-import come.home.util.HibernateUtil;
+import com.home.util.HibernateUtil;
 
 public class ClientTest {
 
